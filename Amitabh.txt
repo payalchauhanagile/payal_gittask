@@ -1,2 +1,3 @@
 dialogue: Rishte me hum tumhare baap lagte he..naam he Shahenshah
 song:pyar hume kis mod pe le aya...
+dialogue:Tum mjhe waha dhundh rahe ho aur me tumhara yaha intezaar kar rha hu
