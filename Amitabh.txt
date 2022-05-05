@@ -1,7 +1,11 @@
 dialogue: Rishte me hum tumhare baap lagte he..naam he Shahenshah
+<<<<<<< HEAD
 
 song:pyar hume kis mod pe le aya...
 
 dialogue:Tum mjhe waha dhundh rahe ho aur me tumhara yaha intezaar kar rha hu
 
+=======
+song:pyar hume kis mod pe le aya...
+>>>>>>> 50d6ce021fbce7c1ff78931697cadc5ff5ea0b92
  Movies: Sholay, Deewar, Zanzeer, Agnipath
